@@ -1,0 +1,23 @@
+h2 {
+  color:yellow;
+  background-color: darkred;
+  font-family: Verdana;
+  font-size: 300% ;
+  text-align: center;
+}
+h4 {
+  color: firebrick ;
+  font-size: 200%;
+  font-family: Courier;
+  text-decoration: underline;
+}
+ol {
+  font-size: 160%;
+  line-height: 2;
+}
+ul {
+  font-size: 130%;
+  border: 2px solid red;
+  padding: 30px;
+  margin: 50px;
+}
